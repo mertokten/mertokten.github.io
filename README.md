@@ -27,3 +27,11 @@ screenshot of the git repo:
 
 screenshot of the home page of the deployed website:
 <img width="1510" alt="Screenshot 2023-09-27 at 8 10 08 PM" src="https://github.com/mertokten/mertokten.github.io/assets/31061207/a48cc8d1-804e-478c-92f3-e93f71c061b0">
+
+# Activity 4:
+
+Screenshot of the repo:
+<img width="1508" alt="Screenshot 2023-09-27 at 9 33 45 PM" src="https://github.com/mertokten/mertokten.github.io/assets/31061207/ec09a6b1-05da-4fed-b2ff-2cc62a5860ec">
+
+screenshot of the places travelled section of the deployed website:
+![screencapture-github-mertokten-mertokten-github-io-2023-09-27-21_34_32](https://github.com/mertokten/mertokten.github.io/assets/31061207/79db1e6c-7f40-4ea8-b247-cc270c43169c)
